@@ -25,6 +25,7 @@
 <ul>
   <li><a href="https://www.frontendinterviewhandbook.com/pl/javascript-questions/">JavaScript pytania</a></li>
   <li><a href="https://kursjs.pl/">JavaScript Kurs</a></li>
+  <li><a href="https://www.producthunt.com/posts/javascript-knowledge-map">JavaScript Knowledge Map</a></li>
 </ul>
 
 <ul>
