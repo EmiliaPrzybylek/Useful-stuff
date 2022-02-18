@@ -35,6 +35,7 @@
 
 <ul>
   <li><a href="https://coderslab.pl/pl/blog/podreczny-slowniczek-dla-rekrutera-it">Podręczny Słowniczek dla rekrutera IT</a></li>
+ <li><a href="https://github.com/public-apis/public-apis#animals">Public APIs</a></li>
 </ul>
 
 <ul>
