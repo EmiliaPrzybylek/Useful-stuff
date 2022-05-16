@@ -5,6 +5,7 @@
 
 
 <ul>
+  <li><a href="https://github.com/rzashakeri/beautify-github-profile?ref=producthunt">Beautify Github Profile</a></li>
   <li><a href="https://course.elementsofai.com/pl/">Bezpłatny kurs online - Elements of AI</a></li>
   <li><a href="https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp">Bootstrap Class List w3schools</a></li>
   <li><a href="https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/">Bootstrap Class List BootstrapCreative</a></li>
