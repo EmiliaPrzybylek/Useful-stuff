@@ -44,6 +44,10 @@
  <li><a href="https://regexr.com/">RegExr</a></li>
 </ul>
 
+<ul>
+ <li><a href="https://search.google.com/test/mobile-friendly?hl=PL">Test optymalizacji mobilnej</a></li>
+</ul>
+
 # Open Source For Beginngers
 <ul>
   <li><a href="https://github.com/MunGell/awesome-for-beginners">Awesome First PR Opportunities</a></li>
