@@ -45,6 +45,11 @@
 </ul>
 
 <ul>
+ <li><a href="https://seositecheckup.com/">SEO Site Checkup</a></li>
+</ul>
+
+
+<ul>
  <li><a href="https://search.google.com/test/mobile-friendly?hl=PL">Test optymalizacji mobilnej</a></li>
 </ul>
 
